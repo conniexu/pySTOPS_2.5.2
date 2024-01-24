@@ -273,10 +273,10 @@ _table_parameters = {
                       melt_value_name = 'Transit Trip'),
 
     # Section 16
-#    'SECTION 16': TableDef('SECTION 16', end_table_tag='',
-#                            df_drop_tail_rows=2, skip_rows=1, read_row=11, df_drop_top_rows=1),   
-    'SECTION 16': TableDef('SECTION 16', end_table_tag='------------------------------------------------------------------------------------------------',
-                            df_drop_tail_rows=1, skip_rows=1, df_drop_top_rows=1),   
+    'SECTION 16': TableDef('SECTION 16', end_table_tag='',
+                            df_drop_tail_rows=2, skip_rows=1, read_row=11, df_drop_top_rows=1),   
+#    'SECTION 16': TableDef('SECTION 16', end_table_tag='------------------------------------------------------------------------------------------------',
+#                            df_drop_tail_rows=1, skip_rows=1, df_drop_top_rows=1),   
                             
     # Section 15
     'SECTION 15': TableDef('SECTION 15', end_table_tag='SECTION 16', index_col='CARS',
