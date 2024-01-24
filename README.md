@@ -1,7 +1,7 @@
 # pySTOPS
 ## Summary
 - This is a python based parsing tool to get tables from STOPS report to csv, and import them as datasource scheduled on refreshment on daily bases in STOPS Tableau for DART Capital Planning team.
-- The tool is used on outputs from STOPS version 2.5.3, there is slight difference in prior version STOPS's output due to 2.5.3 has additional section 17 added at the end of the section 16, resulting changes in table lookup for section 16. As a results, if prior STOPS is used, please contact Phil Johnson at Pjohnso2@dart.org or Connie Xu at cxu@dart.org and request prior reader.py for STOPS 2.5.0 or prior.
+- The tool is used on outputs from STOPS version 2.5.3, there is slight difference in prior version STOPS's output due to 2.5.2 has additional section 17 added at the end of the section 16, resulting changes in table lookup for section 16. As a results, if prior STOPS is used, please contact Phil Johnson at Pjohnso2@dart.org or Connie Xu at cxu@dart.org and request prior reader.py for STOPS 2.5.0 or prior.
 - This tool requires Python install, the version on development is 3.9.0, with pandas and numpy as package requirements. 
 - Tables that get processed in this tool are listed below, selection of those tableas is tailed to the needs of the developed Tableau dashboard, if any table needs to be added, please change reader.py with its table specs, table specs can be referenced to the existing table reading specs layout in reader.py, for table referencing tables, please referencing to section 15 and section 16 's table specs. 
 Tables list
