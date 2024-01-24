@@ -1,0 +1,217 @@
+hh_car,sub_mode,access_mode,Purpose,Scenario,Transit Trip
+0 car H,Fixed Guideway Only,Walk Access,HBW,EXST_model,3571
+0 car H,Fixed Guideway Only,KNR Access,HBW,EXST_model,370
+0 car H,Fixed Guideway Only,PNR Access,HBW,EXST_model,402
+0 car H,Fixed Guideway+Bus,Walk Access,HBW,EXST_model,5177
+0 car H,Fixed Guideway+Bus,KNR Access,HBW,EXST_model,172
+0 car H,Fixed Guideway+Bus,PNR Access,HBW,EXST_model,33
+0 car H,Bus Only,Walk Access,HBW,EXST_model,11501
+0 car H,Bus Only,KNR Access,HBW,EXST_model,266
+0 car H,Bus Only,PNR Access,HBW,EXST_model,119
+1 car H,Fixed Guideway Only,Walk Access,HBW,EXST_model,4686
+1 car H,Fixed Guideway Only,KNR Access,HBW,EXST_model,738
+1 car H,Fixed Guideway Only,PNR Access,HBW,EXST_model,9118
+1 car H,Fixed Guideway+Bus,Walk Access,HBW,EXST_model,2966
+1 car H,Fixed Guideway+Bus,KNR Access,HBW,EXST_model,202
+1 car H,Fixed Guideway+Bus,PNR Access,HBW,EXST_model,500
+1 car H,Bus Only,Walk Access,HBW,EXST_model,10892
+1 car H,Bus Only,KNR Access,HBW,EXST_model,520
+1 car H,Bus Only,PNR Access,HBW,EXST_model,1477
+2+ car,Fixed Guideway Only,Walk Access,HBW,EXST_model,2404
+2+ car,Fixed Guideway Only,KNR Access,HBW,EXST_model,589
+2+ car,Fixed Guideway Only,PNR Access,HBW,EXST_model,13721
+2+ car,Fixed Guideway+Bus,Walk Access,HBW,EXST_model,1654
+2+ car,Fixed Guideway+Bus,KNR Access,HBW,EXST_model,130
+2+ car,Fixed Guideway+Bus,PNR Access,HBW,EXST_model,717
+2+ car,Bus Only,Walk Access,HBW,EXST_model,4759
+2+ car,Bus Only,KNR Access,HBW,EXST_model,270
+2+ car,Bus Only,PNR Access,HBW,EXST_model,1788
+0 car H,Fixed Guideway Only,Walk Access,HBW,EXST_survey,0
+0 car H,Fixed Guideway Only,KNR Access,HBW,EXST_survey,0
+0 car H,Fixed Guideway Only,PNR Access,HBW,EXST_survey,0
+0 car H,Fixed Guideway+Bus,Walk Access,HBW,EXST_survey,0
+0 car H,Fixed Guideway+Bus,KNR Access,HBW,EXST_survey,0
+0 car H,Fixed Guideway+Bus,PNR Access,HBW,EXST_survey,0
+0 car H,Bus Only,Walk Access,HBW,EXST_survey,0
+0 car H,Bus Only,KNR Access,HBW,EXST_survey,0
+0 car H,Bus Only,PNR Access,HBW,EXST_survey,0
+1 car H,Fixed Guideway Only,Walk Access,HBW,EXST_survey,0
+1 car H,Fixed Guideway Only,KNR Access,HBW,EXST_survey,0
+1 car H,Fixed Guideway Only,PNR Access,HBW,EXST_survey,0
+1 car H,Fixed Guideway+Bus,Walk Access,HBW,EXST_survey,0
+1 car H,Fixed Guideway+Bus,KNR Access,HBW,EXST_survey,0
+1 car H,Fixed Guideway+Bus,PNR Access,HBW,EXST_survey,0
+1 car H,Bus Only,Walk Access,HBW,EXST_survey,0
+1 car H,Bus Only,KNR Access,HBW,EXST_survey,0
+1 car H,Bus Only,PNR Access,HBW,EXST_survey,0
+2+ car,Fixed Guideway Only,Walk Access,HBW,EXST_survey,0
+2+ car,Fixed Guideway Only,KNR Access,HBW,EXST_survey,0
+2+ car,Fixed Guideway Only,PNR Access,HBW,EXST_survey,0
+2+ car,Fixed Guideway+Bus,Walk Access,HBW,EXST_survey,0
+2+ car,Fixed Guideway+Bus,KNR Access,HBW,EXST_survey,0
+2+ car,Fixed Guideway+Bus,PNR Access,HBW,EXST_survey,0
+2+ car,Bus Only,Walk Access,HBW,EXST_survey,0
+2+ car,Bus Only,KNR Access,HBW,EXST_survey,0
+2+ car,Bus Only,PNR Access,HBW,EXST_survey,0
+0 car H,Fixed Guideway Only,Walk Access,HBW,NOBL_model,3571
+0 car H,Fixed Guideway Only,KNR Access,HBW,NOBL_model,370
+0 car H,Fixed Guideway Only,PNR Access,HBW,NOBL_model,402
+0 car H,Fixed Guideway+Bus,Walk Access,HBW,NOBL_model,5177
+0 car H,Fixed Guideway+Bus,KNR Access,HBW,NOBL_model,172
+0 car H,Fixed Guideway+Bus,PNR Access,HBW,NOBL_model,33
+0 car H,Bus Only,Walk Access,HBW,NOBL_model,11501
+0 car H,Bus Only,KNR Access,HBW,NOBL_model,266
+0 car H,Bus Only,PNR Access,HBW,NOBL_model,119
+1 car H,Fixed Guideway Only,Walk Access,HBW,NOBL_model,4686
+1 car H,Fixed Guideway Only,KNR Access,HBW,NOBL_model,738
+1 car H,Fixed Guideway Only,PNR Access,HBW,NOBL_model,9118
+1 car H,Fixed Guideway+Bus,Walk Access,HBW,NOBL_model,2966
+1 car H,Fixed Guideway+Bus,KNR Access,HBW,NOBL_model,202
+1 car H,Fixed Guideway+Bus,PNR Access,HBW,NOBL_model,500
+1 car H,Bus Only,Walk Access,HBW,NOBL_model,10892
+1 car H,Bus Only,KNR Access,HBW,NOBL_model,520
+1 car H,Bus Only,PNR Access,HBW,NOBL_model,1477
+2+ car,Fixed Guideway Only,Walk Access,HBW,NOBL_model,2404
+2+ car,Fixed Guideway Only,KNR Access,HBW,NOBL_model,589
+2+ car,Fixed Guideway Only,PNR Access,HBW,NOBL_model,13721
+2+ car,Fixed Guideway+Bus,Walk Access,HBW,NOBL_model,1654
+2+ car,Fixed Guideway+Bus,KNR Access,HBW,NOBL_model,130
+2+ car,Fixed Guideway+Bus,PNR Access,HBW,NOBL_model,717
+2+ car,Bus Only,Walk Access,HBW,NOBL_model,4759
+2+ car,Bus Only,KNR Access,HBW,NOBL_model,270
+2+ car,Bus Only,PNR Access,HBW,NOBL_model,1788
+0 car H,Fixed Guideway Only,Walk Access,HBW,NOBL_survey,0
+0 car H,Fixed Guideway Only,KNR Access,HBW,NOBL_survey,0
+0 car H,Fixed Guideway Only,PNR Access,HBW,NOBL_survey,0
+0 car H,Fixed Guideway+Bus,Walk Access,HBW,NOBL_survey,0
+0 car H,Fixed Guideway+Bus,KNR Access,HBW,NOBL_survey,0
+0 car H,Fixed Guideway+Bus,PNR Access,HBW,NOBL_survey,0
+0 car H,Bus Only,Walk Access,HBW,NOBL_survey,0
+0 car H,Bus Only,KNR Access,HBW,NOBL_survey,0
+0 car H,Bus Only,PNR Access,HBW,NOBL_survey,0
+1 car H,Fixed Guideway Only,Walk Access,HBW,NOBL_survey,0
+1 car H,Fixed Guideway Only,KNR Access,HBW,NOBL_survey,0
+1 car H,Fixed Guideway Only,PNR Access,HBW,NOBL_survey,0
+1 car H,Fixed Guideway+Bus,Walk Access,HBW,NOBL_survey,0
+1 car H,Fixed Guideway+Bus,KNR Access,HBW,NOBL_survey,0
+1 car H,Fixed Guideway+Bus,PNR Access,HBW,NOBL_survey,0
+1 car H,Bus Only,Walk Access,HBW,NOBL_survey,0
+1 car H,Bus Only,KNR Access,HBW,NOBL_survey,0
+1 car H,Bus Only,PNR Access,HBW,NOBL_survey,0
+2+ car,Fixed Guideway Only,Walk Access,HBW,NOBL_survey,0
+2+ car,Fixed Guideway Only,KNR Access,HBW,NOBL_survey,0
+2+ car,Fixed Guideway Only,PNR Access,HBW,NOBL_survey,0
+2+ car,Fixed Guideway+Bus,Walk Access,HBW,NOBL_survey,0
+2+ car,Fixed Guideway+Bus,KNR Access,HBW,NOBL_survey,0
+2+ car,Fixed Guideway+Bus,PNR Access,HBW,NOBL_survey,0
+2+ car,Bus Only,Walk Access,HBW,NOBL_survey,0
+2+ car,Bus Only,KNR Access,HBW,NOBL_survey,0
+2+ car,Bus Only,PNR Access,HBW,NOBL_survey,0
+0 car H,Fixed Guideway Only,Walk Access,HBW,BLD_model,3540
+0 car H,Fixed Guideway Only,KNR Access,HBW,BLD_model,366
+0 car H,Fixed Guideway Only,PNR Access,HBW,BLD_model,408
+0 car H,Fixed Guideway+Bus,Walk Access,HBW,BLD_model,5223
+0 car H,Fixed Guideway+Bus,KNR Access,HBW,BLD_model,177
+0 car H,Fixed Guideway+Bus,PNR Access,HBW,BLD_model,34
+0 car H,Bus Only,Walk Access,HBW,BLD_model,11487
+0 car H,Bus Only,KNR Access,HBW,BLD_model,265
+0 car H,Bus Only,PNR Access,HBW,BLD_model,120
+1 car H,Fixed Guideway Only,Walk Access,HBW,BLD_model,4653
+1 car H,Fixed Guideway Only,KNR Access,HBW,BLD_model,719
+1 car H,Fixed Guideway Only,PNR Access,HBW,BLD_model,9302
+1 car H,Fixed Guideway+Bus,Walk Access,HBW,BLD_model,2995
+1 car H,Fixed Guideway+Bus,KNR Access,HBW,BLD_model,201
+1 car H,Fixed Guideway+Bus,PNR Access,HBW,BLD_model,597
+1 car H,Bus Only,Walk Access,HBW,BLD_model,10839
+1 car H,Bus Only,KNR Access,HBW,BLD_model,520
+1 car H,Bus Only,PNR Access,HBW,BLD_model,1474
+2+ car,Fixed Guideway Only,Walk Access,HBW,BLD_model,2406
+2+ car,Fixed Guideway Only,KNR Access,HBW,BLD_model,578
+2+ car,Fixed Guideway Only,PNR Access,HBW,BLD_model,13877
+2+ car,Fixed Guideway+Bus,Walk Access,HBW,BLD_model,1586
+2+ car,Fixed Guideway+Bus,KNR Access,HBW,BLD_model,127
+2+ car,Fixed Guideway+Bus,PNR Access,HBW,BLD_model,827
+2+ car,Bus Only,Walk Access,HBW,BLD_model,4754
+2+ car,Bus Only,KNR Access,HBW,BLD_model,269
+2+ car,Bus Only,PNR Access,HBW,BLD_model,1814
+0 car H,Fixed Guideway Only,Walk Access,HBW,BLD_survey,0
+0 car H,Fixed Guideway Only,KNR Access,HBW,BLD_survey,0
+0 car H,Fixed Guideway Only,PNR Access,HBW,BLD_survey,0
+0 car H,Fixed Guideway+Bus,Walk Access,HBW,BLD_survey,0
+0 car H,Fixed Guideway+Bus,KNR Access,HBW,BLD_survey,0
+0 car H,Fixed Guideway+Bus,PNR Access,HBW,BLD_survey,0
+0 car H,Bus Only,Walk Access,HBW,BLD_survey,0
+0 car H,Bus Only,KNR Access,HBW,BLD_survey,0
+0 car H,Bus Only,PNR Access,HBW,BLD_survey,0
+1 car H,Fixed Guideway Only,Walk Access,HBW,BLD_survey,0
+1 car H,Fixed Guideway Only,KNR Access,HBW,BLD_survey,0
+1 car H,Fixed Guideway Only,PNR Access,HBW,BLD_survey,0
+1 car H,Fixed Guideway+Bus,Walk Access,HBW,BLD_survey,0
+1 car H,Fixed Guideway+Bus,KNR Access,HBW,BLD_survey,0
+1 car H,Fixed Guideway+Bus,PNR Access,HBW,BLD_survey,0
+1 car H,Bus Only,Walk Access,HBW,BLD_survey,0
+1 car H,Bus Only,KNR Access,HBW,BLD_survey,0
+1 car H,Bus Only,PNR Access,HBW,BLD_survey,0
+2+ car,Fixed Guideway Only,Walk Access,HBW,BLD_survey,0
+2+ car,Fixed Guideway Only,KNR Access,HBW,BLD_survey,0
+2+ car,Fixed Guideway Only,PNR Access,HBW,BLD_survey,0
+2+ car,Fixed Guideway+Bus,Walk Access,HBW,BLD_survey,0
+2+ car,Fixed Guideway+Bus,KNR Access,HBW,BLD_survey,0
+2+ car,Fixed Guideway+Bus,PNR Access,HBW,BLD_survey,0
+2+ car,Bus Only,Walk Access,HBW,BLD_survey,0
+2+ car,Bus Only,KNR Access,HBW,BLD_survey,0
+2+ car,Bus Only,PNR Access,HBW,BLD_survey,0
+0 car H,Fixed Guideway Only,Walk Access,HBW,BLD_pj_model,0
+0 car H,Fixed Guideway Only,KNR Access,HBW,BLD_pj_model,0
+0 car H,Fixed Guideway Only,PNR Access,HBW,BLD_pj_model,0
+0 car H,Fixed Guideway+Bus,Walk Access,HBW,BLD_pj_model,0
+0 car H,Fixed Guideway+Bus,KNR Access,HBW,BLD_pj_model,0
+0 car H,Fixed Guideway+Bus,PNR Access,HBW,BLD_pj_model,0
+0 car H,Bus Only,Walk Access,HBW,BLD_pj_model,0
+0 car H,Bus Only,KNR Access,HBW,BLD_pj_model,0
+0 car H,Bus Only,PNR Access,HBW,BLD_pj_model,0
+1 car H,Fixed Guideway Only,Walk Access,HBW,BLD_pj_model,0
+1 car H,Fixed Guideway Only,KNR Access,HBW,BLD_pj_model,0
+1 car H,Fixed Guideway Only,PNR Access,HBW,BLD_pj_model,0
+1 car H,Fixed Guideway+Bus,Walk Access,HBW,BLD_pj_model,0
+1 car H,Fixed Guideway+Bus,KNR Access,HBW,BLD_pj_model,0
+1 car H,Fixed Guideway+Bus,PNR Access,HBW,BLD_pj_model,0
+1 car H,Bus Only,Walk Access,HBW,BLD_pj_model,0
+1 car H,Bus Only,KNR Access,HBW,BLD_pj_model,0
+1 car H,Bus Only,PNR Access,HBW,BLD_pj_model,0
+2+ car,Fixed Guideway Only,Walk Access,HBW,BLD_pj_model,0
+2+ car,Fixed Guideway Only,KNR Access,HBW,BLD_pj_model,0
+2+ car,Fixed Guideway Only,PNR Access,HBW,BLD_pj_model,0
+2+ car,Fixed Guideway+Bus,Walk Access,HBW,BLD_pj_model,0
+2+ car,Fixed Guideway+Bus,KNR Access,HBW,BLD_pj_model,0
+2+ car,Fixed Guideway+Bus,PNR Access,HBW,BLD_pj_model,0
+2+ car,Bus Only,Walk Access,HBW,BLD_pj_model,0
+2+ car,Bus Only,KNR Access,HBW,BLD_pj_model,0
+2+ car,Bus Only,PNR Access,HBW,BLD_pj_model,0
+0 car H,Fixed Guideway Only,Walk Access,HBW,BLD_pj_survey,0
+0 car H,Fixed Guideway Only,KNR Access,HBW,BLD_pj_survey,0
+0 car H,Fixed Guideway Only,PNR Access,HBW,BLD_pj_survey,0
+0 car H,Fixed Guideway+Bus,Walk Access,HBW,BLD_pj_survey,0
+0 car H,Fixed Guideway+Bus,KNR Access,HBW,BLD_pj_survey,0
+0 car H,Fixed Guideway+Bus,PNR Access,HBW,BLD_pj_survey,0
+0 car H,Bus Only,Walk Access,HBW,BLD_pj_survey,0
+0 car H,Bus Only,KNR Access,HBW,BLD_pj_survey,0
+0 car H,Bus Only,PNR Access,HBW,BLD_pj_survey,0
+1 car H,Fixed Guideway Only,Walk Access,HBW,BLD_pj_survey,0
+1 car H,Fixed Guideway Only,KNR Access,HBW,BLD_pj_survey,0
+1 car H,Fixed Guideway Only,PNR Access,HBW,BLD_pj_survey,0
+1 car H,Fixed Guideway+Bus,Walk Access,HBW,BLD_pj_survey,0
+1 car H,Fixed Guideway+Bus,KNR Access,HBW,BLD_pj_survey,0
+1 car H,Fixed Guideway+Bus,PNR Access,HBW,BLD_pj_survey,0
+1 car H,Bus Only,Walk Access,HBW,BLD_pj_survey,0
+1 car H,Bus Only,KNR Access,HBW,BLD_pj_survey,0
+1 car H,Bus Only,PNR Access,HBW,BLD_pj_survey,0
+2+ car,Fixed Guideway Only,Walk Access,HBW,BLD_pj_survey,0
+2+ car,Fixed Guideway Only,KNR Access,HBW,BLD_pj_survey,0
+2+ car,Fixed Guideway Only,PNR Access,HBW,BLD_pj_survey,0
+2+ car,Fixed Guideway+Bus,Walk Access,HBW,BLD_pj_survey,0
+2+ car,Fixed Guideway+Bus,KNR Access,HBW,BLD_pj_survey,0
+2+ car,Fixed Guideway+Bus,PNR Access,HBW,BLD_pj_survey,0
+2+ car,Bus Only,Walk Access,HBW,BLD_pj_survey,0
+2+ car,Bus Only,KNR Access,HBW,BLD_pj_survey,0
+2+ car,Bus Only,PNR Access,HBW,BLD_pj_survey,0
